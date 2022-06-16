@@ -6,6 +6,8 @@ For this week's Challenge, your task is to refactor an existing webpage to make 
 
 To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
+<img src="./images/Screen Shot 1" />
+
 ## User Story
 
 ```
@@ -31,12 +33,6 @@ THEN I find a concise, descriptive title
 ```
 
 ## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
