@@ -6,7 +6,7 @@ For this week's Challenge, your task is to refactor an existing webpage to make 
 
 To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-<img src="./images/Screen Shot 1" />
+<img src="./images/Screen Shot 1.png" />
 
 ## User Story
 
