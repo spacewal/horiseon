@@ -7,8 +7,13 @@ For this week's Challenge, your task is to refactor an existing webpage to make 
 To impress the imaginary client for this Challenge, you should go the extra mile and improve their codebase for long-term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 <img src="./images/Screen Shot 1.png" />
-<img src="./images/![Screen Shot 2022-06-15 at 8 25 41 PM](https://user-images.githubusercontent.com/103618601/173970448-98747470-73f1-40c8-be0c-d2d2dcbb7915.png)
-" />
+<img src="./images/Screen Shot 2022-06-15 at 8.25.41 PM.png" />
+<img src="./images/Screen Shot 2022-06-15 at 8.25.53 PM.png" />
+<img src="./images/Screen Shot 2022-06-15 at 8.26.05 PM.png" />
+<img src="./images/Screen Shot 2022-06-15 at 8.26.19 PM.png" />
+<img src="./images/Screen Shot 2022-06-15 at 8.26.30 PM.png" />
+<img src="./images/Screen Shot 2022-06-15 at 8.26.45 PM.png" />
+<img src="./images/Screen Shot 2022-06-15 at 8.26.55 PM.png" />
 
 ## User Story
 
